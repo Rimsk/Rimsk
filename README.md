@@ -6,18 +6,25 @@ I am a bioinformatician with 12+ years of experience in genomics, transcriptomic
 
 🔧 Technical Skills:
 
-Programming: Python, R, Bash, SQL
-Data Analysis: RNA-seq, ChIP-seq, ATAC-seq, WGS, GWAS
-Tools & Libraries: DESeq2, edgeR, STAR, HISAT2, GATK, Seurat, PyTorch, TensorFlow
-Tech Stack: Docker, Nextflow, SLURM, Git
-Platforms: AWS, GCP, Linux
+	Programming: Python, R, Bash, SQL
+	Data Analysis: RNA-seq, ChIP-seq, ATAC-seq, WGS, GWAS
+	Tools & Libraries: DESeq2, edgeR, STAR, HISAT2, GATK, Seurat, PyTorch, TensorFlow
+	Tech Stack: Docker, Nextflow, SLURM, Git
+	Platforms: AWS, GCP, Linux
+
+ 
 🧠 Research Interests:
 
-Single-cell genomics
-Multi-omics integration
-AI/ML in computational biology
-Biomarker discovery
-Personalized medicine
+	Single-cell genomics
+	Multi-omics integration
+	AI/ML in computational biology
+	Biomarker discovery
+	Personalized medicine
+
+
+
+ 
 🌱 I am passionate about open-source bioinformatics tools, reproducible research, and building pipelines that make complex bioinformatics analysis accessible to both researchers and clinicians. Currently, I am exploring deep learning approaches for predictive modeling in genomic data.
+
 
 🔗 Feel free to browse my repositories to check out the bioinformatics pipelines, scripts, and tools I’ve developed. Let's collaborate on pushing the boundaries of bioinformatics and computational biology!
