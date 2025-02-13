@@ -20,6 +20,7 @@ I am a bioinformatician with 10+ years of experience in genomics, transcriptomic
 	AI/ML in computational biology
 	Biomarker discovery
 	Personalized medicine
+ 	Spatial Transcriptomics
 
 
 
