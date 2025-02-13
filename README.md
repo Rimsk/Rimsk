@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔬 Bioinformatician | Data Scientist | Computational Biologist
+🔬 Bioinformatician | Data Scientist | Computational Biologist | Clinical Data Analyst | Biostatististician
 
 I am a bioinformatician with 10+ years of experience in genomics, transcriptomics, and computational biology, focused on leveraging big data to solve complex biological questions. With a strong foundation in genomic data analysis, statistical modeling, and machine learning, I specialize in Next-Generation Sequencing (NGS), single-cell RNA-seq, GeomaX, Spatial Transcriptomic and multi-omics data integration.
 
