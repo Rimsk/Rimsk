@@ -4,15 +4,22 @@
 
 I am a bioinformatician with 10+ years of experience in genomics, transcriptomics, and computational biology, focused on leveraging big data to solve complex biological questions. With a strong foundation in genomic data analysis, statistical modeling, and machine learning, I specialize in Next-Generation Sequencing (NGS), single-cell RNA-seq, GeomaX, Spatial Transcriptomic and multi-omics data integration.
 
-Featured Project: Precision Medicine CKI Shiny Application
+## Featured Project: Clinical Kinase Index (CKI) Web Application
 
-Developed an interactive web-based tool using R Shiny to support precision medicine research focused on Chronic Kidney Injury (CKI). This application integrates multi-omics and clinical datasets to provide dynamic visualizations and exploratory analysis, enabling researchers and clinicians to:
+Developed an interactive R Shiny web application supporting precision medicine research focused on the Clinical Kinase Index (CKI). The tool integrates multi-omics and clinical datasets to enable researchers and clinicians to dynamically explore kinase gene expression, clinical associations, and survival outcomes across various cancers.
 
-Explore gene expression patterns and biomarker associations in CKI
-Perform survival and correlation analyses with customizable parameters
-Visualize complex data interactively using Plotly for an enhanced user experience
-Access a user-friendly interface designed for both data scientists and clinical researchers
-This tool demonstrates expertise in building scalable, reproducible bioinformatics pipelines and deploying data-driven applications to facilitate translational research. Hosted at cki.ccs.miami.edu.
+# Key features include:
+
+Interactive mRNA expression heatmaps of all kinases, including understudied ones
+Filterable tables with kinase gene names, cancer types, CKI scores, rankings, and metadata
+Gene-specific exploration pages with filters by Target Development Level (TDL), kinase type/group, and mechanism of action (MOA) targets
+Cancer-specific disease pages showing volcano plots of differentially expressed kinases
+Clinical data visualizations such as boxplots for expression by TNM staging and Kaplan-Meier survival curves
+Data download options for reproduction and further analysis, including mutation and copy number alteration (CNA) data
+Built entirely in R (version 3.3+) using packages like shiny, TCGAbiolinks, limma, edgeR, survival, plotly, and many more. The app leverages Bioconductor databases and is designed for scalable, reproducible bioinformatics workflows to facilitate translational cancer research.
+
+Codebase and additional resources are openly available at github : GitHub - Schurer Lab CKI
+Live app accessible at cki.ccs.miami.edu and shinyapps.io/CKIApp.
 
 
 🔧 Technical Skills:
