@@ -4,6 +4,17 @@
 
 I am a bioinformatician with 10+ years of experience in genomics, transcriptomics, and computational biology, focused on leveraging big data to solve complex biological questions. With a strong foundation in genomic data analysis, statistical modeling, and machine learning, I specialize in Next-Generation Sequencing (NGS), single-cell RNA-seq, GeomaX, Spatial Transcriptomic and multi-omics data integration.
 
+Featured Project: Precision Medicine CKI Shiny Application
+
+Developed an interactive web-based tool using R Shiny to support precision medicine research focused on Chronic Kidney Injury (CKI). This application integrates multi-omics and clinical datasets to provide dynamic visualizations and exploratory analysis, enabling researchers and clinicians to:
+
+Explore gene expression patterns and biomarker associations in CKI
+Perform survival and correlation analyses with customizable parameters
+Visualize complex data interactively using Plotly for an enhanced user experience
+Access a user-friendly interface designed for both data scientists and clinical researchers
+This tool demonstrates expertise in building scalable, reproducible bioinformatics pipelines and deploying data-driven applications to facilitate translational research. Hosted at cki.ccs.miami.edu.
+
+
 🔧 Technical Skills:
 
 	Programming: Python, R, Bash, SQL
