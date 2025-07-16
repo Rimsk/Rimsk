@@ -8,7 +8,7 @@ I am a bioinformatician with 10+ years of experience in genomics, transcriptomic
 
 Developed an interactive R Shiny web application supporting precision medicine research focused on the Clinical Kinase Index (CKI). The tool integrates multi-omics and clinical datasets to enable researchers and clinicians to dynamically explore kinase gene expression, clinical associations, and survival outcomes across various cancers.
 
-# Key features include:
+### Key features include:
 
 Interactive mRNA expression heatmaps of all kinases, including understudied ones
 Filterable tables with kinase gene names, cancer types, CKI scores, rankings, and metadata
