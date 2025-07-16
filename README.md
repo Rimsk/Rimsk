@@ -18,7 +18,7 @@ Developed an interactive R Shiny web application supporting precision medicine r
 - Data download options for reproduction and further analysis, including mutation and copy number alteration (CNA) data
 - Built entirely in R (version 3.3+) using packages like shiny, TCGAbiolinks, limma, edgeR, survival, plotly, and many more. The app leverages Bioconductor databases and is designed for scalable, reproducible bioinformatics workflows to facilitate translational cancer research.
 
-Codebase and additional resources are openly available at github : GitHub - Schurer Lab CKI [Clinical Kinase Index GitHub](https://github.com/schurerlab/CKI)
+Codebase and additional resources are openly available at github : GitHub - [Schurer Lab CKI](https://github.com/schurerlab/CKI)
 Live app accessible at cki.ccs.miami.edu and shinyapps.io/CKIApp.
 
 
